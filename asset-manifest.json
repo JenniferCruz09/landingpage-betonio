@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/landingpage-betonio/static/css/main.abd64e84.css",
+    "main.js": "/landingpage-betonio/static/js/main.d7af14e4.js",
+    "index.html": "/landingpage-betonio/index.html",
+    "main.abd64e84.css.map": "/landingpage-betonio/static/css/main.abd64e84.css.map",
+    "main.d7af14e4.js.map": "/landingpage-betonio/static/js/main.d7af14e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.d7af14e4.js"
+  ]
+}
